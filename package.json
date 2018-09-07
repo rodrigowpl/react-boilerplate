@@ -10,9 +10,10 @@
   "author": "Rodrigo Wippel",
   "license": "MIT",
   "dependencies": {
+    "@babel/runtime": "^7.0.0",
+    "prop-types": "^15.6.2",
     "react": "^16.5.0",
-    "react-dom": "^16.5.0",
-    "prop-types": "^15.6.2"
+    "react-dom": "^16.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
